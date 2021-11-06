@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="32" height="32" version="1.1" viewBox="0 0 32 32" xmlns="http://www.w3.org/2000/svg">
+ <defs>
+  <clipPath id="clipPath909">
+   <rect width="32" height="32" rx="0" ry="0" fill="#fff" fill-rule="evenodd" opacity=".12" stroke="#fff" stroke-width=".713"/>
+  </clipPath>
+ </defs>
+ <g clip-path="url(#clipPath909)" opacity=".12">
+  <polygon points="3.25 64 4.75 64 0 59.25 0 60.75" opacity=".12"/>
+  <polygon points="64 32.75 64 31.25 32.75 0 31.25 0" opacity=".12"/>
+  <polygon points="64 28.75 64 27.25 36.75 0 35.25 0" opacity=".12"/>
+  <polygon points="64 20.75 64 19.25 44.75 0 43.25 0" opacity=".12"/>
+  <polygon points="64 4.75 64 3.25 60.75 0 59.25 0" opacity=".12"/>
+  <polygon points="64 8.75 64 7.25 56.75 0 55.25 0" opacity=".12"/>
+  <polygon points="64 16.75 64 15.25 48.75 0 47.25 0" opacity=".12"/>
+  <polygon points="64 12.75 64 11.25 52.75 0 51.25 0" opacity=".12"/>
+  <polygon points="64 24.75 64 23.25 40.75 0 39.25 0" opacity=".12"/>
+  <polygon points="64 60.75 64 59.25 4.75 0 3.25 0" opacity=".12"/>
+  <polygon points="63.25 0 64 0.75 64 0" opacity=".12"/>
+  <polygon points="64 56.75 64 55.25 8.75 0 7.25 0" opacity=".12"/>
+  <polygon points="64 52.75 64 51.25 12.75 0 11.25 0" opacity=".12"/>
+  <polygon points="64 36.75 64 35.25 28.75 0 27.25 0" opacity=".12"/>
+  <polygon points="64 40.75 64 39.25 24.75 0 23.25 0" opacity=".12"/>
+  <polygon points="64 48.75 64 47.25 16.75 0 15.25 0" opacity=".12"/>
+  <polygon points="64 44.75 64 43.25 20.75 0 19.25 0" opacity=".12"/>
+  <polygon points="47.25 64 48.75 64 0 15.25 0 16.75" opacity=".12"/>
+  <polygon points="51.25 64 52.75 64 0 11.25 0 12.75" opacity=".12"/>
+  <polygon points="43.25 64 44.75 64 0 19.25 0 20.75" opacity=".12"/>
+  <polygon points="55.25 64 56.75 64 0 7.25 0 8.75" opacity=".12"/>
+  <polygon points="39.25 64 40.75 64 0 23.25 0 24.75" opacity=".12"/>
+  <polygon points="59.25 64 60.75 64 0 3.25 0 4.75" opacity=".12"/>
+  <polygon points="7.25 64 8.75 64 0 55.25 0 56.75" opacity=".12"/>
+  <polygon points="0.75 64 0 63.25 0 64" opacity=".12"/>
+  <polygon points="0 0.75 63.25 64 64 64 64 63.25 0.75 0 0 0" opacity=".12"/>
+  <polygon points="15.25 64 16.75 64 0 47.25 0 48.75" opacity=".12"/>
+  <polygon points="11.25 64 12.75 64 0 51.25 0 52.75" opacity=".12"/>
+  <polygon points="35.25 64 36.75 64 0 27.25 0 28.75" opacity=".12"/>
+  <polygon points="19.25 64 20.75 64 0 43.25 0 44.75" opacity=".12"/>
+  <polygon points="31.25 64 32.75 64 0 31.25 0 32.75" opacity=".12"/>
+  <polygon points="23.25 64 24.75 64 0 39.25 0 40.75" opacity=".12"/>
+  <polygon points="27.25 64 28.75 64 0 35.25 0 36.75" opacity=".12"/>
+ </g>
+</svg>
