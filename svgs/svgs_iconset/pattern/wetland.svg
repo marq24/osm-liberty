@@ -5,7 +5,7 @@
    <rect width="256" height="256"/>
   </clipPath>
   <g id="Si4u9iym5vq7" transform="matrix(.5 0 0 .5 -4 -4)">
-   <path style="fill:#4aa5fa;" d="m1 7h14v2h-14v-2z"/>
+   <path d="m1 7h14v2h-14v-2z" fill="#4aa5fa"/>
   </g>
  </defs>
  <g id="Pattern" clip-path="url(#clipPath)">
@@ -1682,5 +1682,4 @@
   <use x="252.5" y="-0.5" xlink:href="#Si4u9iym5vq7"/>
   <use x="-3.5" y="-0.5" xlink:href="#Si4u9iym5vq7"/>
  </g>
- <desc>Created with Snap</desc>
 </svg>

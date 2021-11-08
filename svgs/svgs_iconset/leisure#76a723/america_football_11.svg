@@ -1,2 +1,12 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 17 17" height="17" width="17"><title>america_football_11.svg</title><rect fill="none" x="0" y="0" width="17" height="17"></rect><rect x="1" y="1" rx="7.5" ry="7.5" width="15" height="15" stroke="#bbb" style="stroke-linejoin:round;stroke-miterlimit:4;" fill="#bbb" stroke-width="2"></rect><rect x="1" y="1" width="15" height="15" rx="7.5" ry="7.5" fill="#fff"></rect><path fill="#76a723" transform="translate(3 3)" d="M5.53,2C2.47,2,1,5.5,1,5.5S2.47,9,5.53,9S10,5.5,10,5.5S8.6,2,5.53,2z M7,6H4C3.7239,6,3.5,5.7761,3.5,5.5S3.7239,5,4,5h3
-	c0.2761,0,0.5,0.2239,0.5,0.5S7.2761,6,7,6z"></path></svg>
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="17" height="17" version="1.1" viewBox="0 0 17 17" xmlns="http://www.w3.org/2000/svg">
+    <rect width="17" height="17" fill="none"/>
+    <rect x="1" y="1" width="15" height="15" rx="7.5" ry="7.5" fill="#bbb" stroke="#bbb" stroke-linejoin="round"
+          stroke-width="2"/>
+    <rect x="1" y="1" width="15" height="15" rx="7.5" ry="7.5" fill="#fff"/>
+    <g fill="#76a723" stroke-width=".45833">
+        <path d="m4.3842 10.159c-0.036666 1.1092 0.14667 1.9892 0.30708 2.1496 0.16042 0.16042 1.045 0.34833 2.1496 0.30708z"/>
+        <path d="m8.995 4.5033c-1.0679 0.1925-2.1954 0.61416-3.0341 1.4575s-1.265 1.9662-1.4575 3.0341l3.4971 3.4971c1.0725-0.18792 2.1954-0.61416 3.0341-1.4575s1.265-1.9662 1.4575-3.0341zm0.78833 3.355-1.925 1.925c-0.17875 0.17875-0.46291 0.17875-0.64166 0s-0.17875-0.46291 0-0.64166l1.925-1.925c0.17875-0.17875 0.46291-0.17875 0.64166 0s0.17875 0.46291 0 0.64166z"/>
+        <path d="m12.616 6.8408c0.036667-1.1092-0.14666-1.9892-0.30708-2.1496-0.16042-0.16042-1.045-0.34833-2.1496-0.30708z"/>
+    </g>
+</svg>
