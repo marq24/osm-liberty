@@ -2,7 +2,7 @@
 <svg width="21" height="21" version="1.1" viewBox="0 0 21 21" xmlns="http://www.w3.org/2000/svg">
  <circle cx="8.1306" cy="7.2577" r="1.75" fill="#fff" fill-rule="evenodd" opacity=".999"/>
  <rect width="21" height="21" fill="none"/>
- <rect x="1" y="1" width="19" height="19" rx="9.5" ry="9.5" fill="#3b3e95" stroke="#3b3e95" stroke-linejoin="round" stroke-width="2"/>
+ <rect x="1" y="1" width="19" height="19" rx="9.5" ry="9.5" fill="#8083cb" stroke="#8083cb" stroke-linejoin="round" stroke-width="2"/>
  <rect x="1" y="1" width="19" height="19" rx="9.5" ry="9.5" fill="#5d60be"/>
  <g fill="#fff" fill-rule="evenodd">
   <circle cx="6.75" cy="6.75" r="1.75" opacity=".999"/>

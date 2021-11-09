@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg width="21" height="21" version="1.1" viewBox="0 0 21 21" xmlns="http://www.w3.org/2000/svg">
  <rect width="21" height="21" fill="none"/>
- <rect x="1" y="1" width="19" height="19" rx="9.5" ry="9.5" fill="#3b3e95" stroke="#3b3e95" stroke-linejoin="round" stroke-width="2"/>
+ <rect x="1" y="1" width="19" height="19" rx="9.5" ry="9.5" fill="#8083cb" stroke="#8083cb" stroke-linejoin="round" stroke-width="2"/>
  <rect x="1" y="1" width="19" height="19" rx="9.5" ry="9.5" fill="#5d60be"/>
  <g transform="matrix(.93333 0 0 .93333 .7 .7)" fill="#fff">
   <ellipse transform="rotate(-47.878)" cx="6.0105" cy="12.968" rx="1.2468" ry="1.2311" stroke-width=".15783"/>

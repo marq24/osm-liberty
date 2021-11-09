@@ -6,7 +6,7 @@
  </defs>
  
  <rect width="21" height="21" fill="none"/>
- <rect x="1" y="1" width="19" height="19" rx="9.5" ry="9.5" fill="#577b19" stroke="#577b19" stroke-linejoin="round" stroke-width="2"/>
+ <rect x="1" y="1" width="19" height="19" rx="9.5" ry="9.5" fill="#86be28" stroke="#86be28" stroke-linejoin="round" stroke-width="2"/>
  <rect x="1" y="1" width="19" height="19" rx="9.5" ry="9.5" fill="#76a723"/>
  <g transform="matrix(.03761 0 0 .03761 4.0757 3.5)" clip-rule="evenodd" fill="#fff" fill-rule="evenodd" image-rendering="optimizeQuality" shape-rendering="geometricPrecision">
   <path class="fil0" d="m172 191 3 57 30 54c5 9 2 21-7 27l-50 36c-22 15-46-18-24-34l36-25-16-29-18 42c-2 5-6 8-10 10l-67 40c-23 14-44-21-21-35l63-37 18-43-4-73-42-1c-5 0-9-2-12-6l-46-53c-14-16 11-38 25-21l41 47 66 2c1 0 3 0 4 1l112 26c21 5 13 37-8 32z"/>

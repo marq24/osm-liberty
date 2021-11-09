@@ -2,7 +2,7 @@
 <svg width="21" height="21" version="1.1" viewBox="0 0 21 21" xmlns="http://www.w3.org/2000/svg">
   
  <rect width="21" height="21" fill="none"/>
- <rect x="1" y="1" width="19" height="19" rx="9.5" ry="9.5" fill="#577b19" stroke="#577b19" stroke-linejoin="round" stroke-width="2"/>
+ <rect x="1" y="1" width="19" height="19" rx="9.5" ry="9.5" fill="#86be28" stroke="#86be28" stroke-linejoin="round" stroke-width="2"/>
  <rect x="1" y="1" width="19" height="19" rx="9.5" ry="9.5" fill="#76a723"/>
  <g transform="matrix(.15206 0 0 .15206 2.9208 2.897)" fill="#fff">
   <path d="m54.289 47.857c-1.834 0-3.398 0.648-4.694 1.932-1.297 1.307-1.956 2.872-1.956 4.718 0 1.834 0.659 3.423 1.956 4.756 1.296 1.318 2.86 1.979 4.694 1.979 1.847 0 3.411-0.635 4.719-1.932 1.283-1.295 1.931-2.896 1.931-4.804 0-1.785-0.647-3.336-1.931-4.655-1.308-1.333-2.872-1.994-4.719-1.994z"/>

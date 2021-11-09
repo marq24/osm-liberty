@@ -15,7 +15,7 @@
   </filter>
  </defs>
  <rect width="17" height="17" fill="none"/>
- <rect x="1" y="1" width="15" height="15" rx="7.5" ry="7.5" fill="#54423b" stroke="#54423b" stroke-linejoin="round" stroke-width="2"/>
+ <rect x="1" y="1" width="15" height="15" rx="7.5" ry="7.5" fill="#81665a" stroke="#81665a" stroke-linejoin="round" stroke-width="2"/>
  <rect x="1" y="1" width="15" height="15" rx="7.5" ry="7.5" fill="#725a50"/>
  <g transform="matrix(2.7672 0 0 2.7672 -146.3 251.16)" fill="#fff">
   <polygon transform="matrix(.10335 0 0 .10335 53.643 -89.963)" points="31.13 29 28.87 29 28.15 34 31.85 34" filter="url(#filter1804)"/>
