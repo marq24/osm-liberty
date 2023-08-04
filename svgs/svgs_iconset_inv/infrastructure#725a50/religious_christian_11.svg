@@ -1,1 +1,11 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 17 17" height="17" width="17"><rect fill="none" x="0" y="0" width="17" height="17"></rect><rect x="1" y="1" rx="7.5" ry="7.5" width="15" height="15" stroke="#81665a" style="stroke-linejoin:round;stroke-miterlimit:4;" fill="#81665a" stroke-width="2"></rect><rect x="1" y="1" width="15" height="15" rx="7.5" ry="7.5" fill="#725a50"></rect><path fill="#fff" transform="translate(3 3)" d="M4.5,0v3H2v2h2.5v6h2V5H9V3H6.5V0H4.5z"></path></svg>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 17 17" height="17" width="17">
+    <rect fill="none" x="0" y="0" width="17" height="17"></rect>
+    <rect x="1" y="1" rx="7.5" ry="7.5" width="15" height="15" stroke="#81665a"
+          style="stroke-linejoin:round;stroke-miterlimit:4;" fill="#81665a" stroke-width="2"></rect>
+    <rect x="1" y="1" width="15" height="15" rx="7.5" ry="7.5" fill="#725a50"></rect>
+    <path
+            fill="#fff"
+            d="M 8.5,3 C 7.799999,3 7.800001,3.7857143 7.800001,3.7857143 L 7.8,6.1428572 H 5 V 7.7142858 H 7.8 L 7.800001,14 h 1.4 L 9.2,7.7142858 H 12 V 6.1428572 H 9.2 V 3.7857143 C 9.2,3.7857143 9.2,3 8.5,3 Z"
+            id="christian"
+            style="stroke-width:0.74162" />
+</svg>

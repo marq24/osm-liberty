@@ -1,2 +1,11 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 21 21" height="21" width="21"><rect fill="none" x="0" y="0" width="21" height="21"></rect><rect x="1" y="1" rx="9.5" ry="9.5" width="19" height="19" stroke="#81665a" style="stroke-linejoin:round;stroke-miterlimit:4;" fill="#81665a" stroke-width="2"></rect><rect x="1" y="1" width="19" height="19" rx="9.5" ry="9.5" fill="#725a50"></rect><path fill="#fff" transform="translate(3 3)" d="M6,0.9552V4H3v3h3v8h3V7h3V4H9V1
-	c0-1-0.9776-1-0.9776-1H6.9887C6.9887,0,6,0,6,0.9552z"></path></svg>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 21 21" height="21" width="21">
+    <rect fill="none" x="0" y="0" width="21" height="21"></rect>
+    <rect x="1" y="1" rx="9.5" ry="9.5" width="19" height="19" stroke="#81665a"
+          style="stroke-linejoin:round;stroke-miterlimit:4;" fill="#81665a" stroke-width="2"></rect>
+    <rect x="1" y="1" width="19" height="19" rx="9.5" ry="9.5" fill="#725a50"></rect>
+    <path
+            fill="#fff"
+            d="M 10.499999,3 C 9.5999988,3 9.6000006,4.0714284 9.6000006,4.0714284 l -9e-7,3.2142857 H 6 v 2.142857 H 9.5999997 L 9.6000006,18 H 11.4 V 9.4285712 h 3.599999 V 7.2857141 H 11.4 V 4.0714284 C 11.4,4.0714284 11.4,3 10.499999,3 Z"
+            id="christian"
+            style="stroke-width:0.98198" />
+</svg>
